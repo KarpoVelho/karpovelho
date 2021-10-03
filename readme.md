@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpovelho&layout=compact&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpovelho&layout=compact&theme=synthwave" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karpovelho&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karpovelho&show_icons=true&theme=synthwave-gt" />
 </p>
 
 <p> 
